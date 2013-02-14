@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLogger01</string>
+    <string name="menu_settings">Settings</string>
+    <string name="add_text">Add TextView</string>
+    <string name="add_edittext">Add EditText</string>
+
+    <string name="data_loading">ロード中</string>
+    <string name="menu_edit">編集</string>
+    <string name="menu_new">新規</string>
+    <string name="menu_add_column">項目追加</string>
+    <string name="record">記録</string>
+    <string name="list">一覧</string>
+	<string name="menu_save">保存</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_table_delete">テーブル削除</string>
+    
+    <string name="text">文字列</string>
+    <string name="integer">整数値</string>
+    <string name="real">実数値</string>
+    
+        
+        
+</resources>
